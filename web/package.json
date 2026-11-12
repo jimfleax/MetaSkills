@@ -33,7 +33,7 @@
     "html-react-parser": "^5.2.10",
     "html2canvas": "^1.4.1",
     "jwt-decode": "^4.0.0",
-    "katex": "^0.16.21",
+    "katex": "^0.18.2",
     "mathlive": "^0.105.3",
     "pdfjs-dist": "^5.7.284",
     "radix-ui": "^1.4.2",
