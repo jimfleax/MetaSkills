@@ -185,8 +185,8 @@ importers:
         specifier: ^7.17.3
         version: 7.22.0(supports-color@8.1.1)
       '@google/genai':
-        specifier: ^1.42.0
-        version: 1.52.0(supports-color@8.1.1)
+        specifier: ^3.3.0
+        version: 3.3.0(supports-color@8.1.1)
       algebrite:
         specifier: ^1.4.0
         version: 1.4.0
@@ -935,9 +935,9 @@ packages:
     resolution: {integrity: sha512-W98gTQOAntEeEQ7/pZxSQXxfUO5CiQcXJRsxBpUa6UU25n8YN/VtogPBi0H+MAmUrn/6bY/sBhFansoWEsr2/g==}
     engines: {node: '>=18'}
 
-  '@google/genai@1.52.0':
-    resolution: {integrity: sha512-gwSvbpiN/17O9TbsqSsE/OzZcpv5Fo4RQjdngGgogtuB9RsyJ8ZHhX5KjHj1bp5N9snN2eK8LDGXSaWW2hof8Q==}
-    engines: {node: '>=20.0.0'}
+  '@google/genai@3.3.0':
+    resolution: {integrity: sha512-XLjXedj0X8UrULZz1GnlTMSQxBDFdr+NCKZkOBaSVVYqmK30C6FCnKW31Ppn0ItO9DpNspCHFui257kPNpumKQ==}
+    engines: {node: '>=22.0.0'}
     peerDependencies:
       '@modelcontextprotocol/sdk': ^1.25.2
     peerDependenciesMeta:
@@ -6410,7 +6410,7 @@ snapshots:
       - encoding
       - supports-color
 
-  '@google/genai@1.52.0(supports-color@8.1.1)':
+  '@google/genai@3.3.0(supports-color@8.1.1)':
     dependencies:
       google-auth-library: 10.9.1(supports-color@8.1.1)
       p-retry: 4.6.2
