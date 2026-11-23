@@ -70,10 +70,10 @@
     "eslint": "^9.27.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.5.7",
+    "eslint-plugin-react-refresh": "^0.5.8",
     "globals": "^16.2.0",
     "nodemon": "^3.1.10",
-    "prettier": "3.9.10",
+    "prettier": "3.10.1",
     "vite": "^6.3.5"
   }
 }
